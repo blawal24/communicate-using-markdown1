@@ -1,7 +1,8 @@
 # Basirat Lawal
 ## I am a senior
 ###### I am an OMIS major and FSMD minor
-![RTIW2859](https://user-images.githubusercontent.com/122910068/214883357-6a69a13b-f262-416c-bc14-f53be08863fa.JPG)
+![IMG_1780](https://user-images.githubusercontent.com/122910068/214886253-b3111018-43d9-4602-8ade-e1b1905f04c3.png)
+
 ```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
